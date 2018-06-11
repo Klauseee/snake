@@ -1,0 +1,14 @@
+* {
+  box-sizing: border-box;
+}
+
+.grid {
+  height: 802px;
+  width: 802px;
+  border: 1px solid black;
+  display: flex;
+  flex-wrap: wrap;
+  div{
+    border: 1px solid black;
+  }
+}
