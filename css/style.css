@@ -9,5 +9,7 @@
   flex-wrap: wrap; }
   .grid div {
     border: 1px solid black; }
+  .grid .head, .grid .body {
+    background-color: green; }
 
 /*# sourceMappingURL=style.css.map */
